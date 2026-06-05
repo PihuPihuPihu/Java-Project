@@ -8,7 +8,7 @@ public class DatabaseManager {
     private static final String PORT     = "3306";
     private static final String DATABASE = "payroll_db";
     private static final String USER     = "root";
-    private static final String PASSWORD = "PIPO1234";  
+    private static final String PASSWORD = "Password";  
 
     private static final String DB_URL =
         "jdbc:mysql://" + HOST + ":" + PORT + "/" + DATABASE +
